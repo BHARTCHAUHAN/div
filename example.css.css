@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-list{
+    display: block;
+    display: flex;
+    list-style: none;
+}
+.navbar{
+    text-decoration: none;
+    background-color: blueviolet;
+}
+.nav-list a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    position: relative;
+    left: 76%;
+    bottom: 20px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+
+}
+.portfolio{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 28px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.secondkam{
+    height: 100vh;
+    background-color:rgb(43, 43, 99);
+}
+.mainsecondkam{
+    height: 100vh;
+    margin-top:4px ;
+    
+}
